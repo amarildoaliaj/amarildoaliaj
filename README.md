@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning
+  - Kotlin
+  - Algorithms
+  - Testing:
+    - JUnit, Mockito
+    - unittest, node, pytest
+    - Equivalence Class Testing
+  
+
 <!--
 **amarildoaliaj/amarildoaliaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
