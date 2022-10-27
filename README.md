@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning:
   - Kotlin
+  - Algorithms
   - Testing
   
 
